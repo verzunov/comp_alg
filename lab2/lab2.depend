@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1695110377 source:/home/sverzunov/git/ca/lab1/main.c
+1695112464 source:/home/sverzunov/git/ca/lab1/main.c
 	<stdio.h>
 	<stdlib.h>
 	<math.h>
