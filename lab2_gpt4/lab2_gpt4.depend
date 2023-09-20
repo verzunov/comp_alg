@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695183477 source:/home/sverzunov/git/comp_alg/lab2_gpt4/main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
