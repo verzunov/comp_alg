@@ -46,6 +46,18 @@ void gauss_elimination(double **mat, int n, double *x) {
     }
 }
 
+// Enter the number of equations: 4 
+// Enter the augmented matrix of the system (A|B):
+// 12 1 7 14 43.4
+// 1 -3 -4 -8 25.2
+// 3 16 7 6 23.4
+// 9 -1 5 4 29.8
+// Solution:
+// x1 = 7.280711
+// x2 = 2.967005
+// x3 = -6.449746
+// x4 = -0.127665
+
 int main() {
     int n;
     printf("Enter the number of equations: ");
