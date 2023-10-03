@@ -111,9 +111,9 @@ x2=0.1
         {
             double delta=a[i][N];
             for (int j=0; j<N; j++)
-                delta-=a[i][j]*x1[j];
+                delta-=a[i][j]*x2[j];
             delta/=a[i][i];
-            x2[i]=delta+x1[i];
+            x2[i]=delta+x2[i];
         }
         printf("Текущее приближение\n");
         printX(N,x2);
