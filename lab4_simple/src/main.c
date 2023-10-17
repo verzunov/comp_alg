@@ -1,18 +1,20 @@
-#define EPS 1e-6
-#define MAX_ITER 100
+#define EPS 1e-6 /*Требуемая точность*/
+#define MAX_ITER 100 /*Максимальное количество итераций*/
 #include <math.h>
 #include <stdio.h>
 #include <stdlib.h>
 
 double x0;
 double x1;
+
+
 double f(double x)
 {
     return x*x -4 ;
 }
 double psi()
 {
-    return 1.0/5;
+    return -1.0/5;
 }
 int main()
 {
