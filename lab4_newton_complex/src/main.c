@@ -1,20 +1,19 @@
-#define EPS 1e-6 /*Требуемая точность*/
-#define MAX_ITER 100 /*Максимальное количество итераций*/
+#define EPS 1e-6
+#define MAX_ITER 100
 #include <math.h>
 #include <stdio.h>
 #include <stdlib.h>
+#include <complex.h>
 
 double x0;
 double x1;
-
-
 double f(double x)
 {
-    return x*x -4 ;
+    return x*x +4 ;
 }
-double psi()
+double psi(double x)
 {
-    return 1.0/5;
+    return -1.0/(2.0*x);
 }
 int main()
 {
@@ -25,7 +24,7 @@ int main()
     {
         x0=x1;
         double delta;
-        delta=f(x0)*psi();
+        delta=f(x0)*psi(x0);
         if (fabs(delta)<EPS) break;
         x1=x0+delta;
         printf("Текущее приближение x=%lf\n",x1);

@@ -9,7 +9,7 @@ double x0;
 double x1;
 double f(double x)
 {
-    return x*x -4 ;
+    return x*x*x -27 ;
 }
 double psi(double x)
 {
