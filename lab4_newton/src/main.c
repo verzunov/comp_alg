@@ -8,11 +8,11 @@ double x0;
 double x1;
 double f(double x)
 {
-    return x*x*x -27 ;
+    return x*x*x -8 ;
 }
 double psi(double x)
 {
-    return -1.0/(3.0*x*x);
+    return - 3.0*x*x;
 }
 int main()
 {
@@ -23,7 +23,7 @@ int main()
     {
         x0=x1;
         double delta;
-        delta=f(x0)*psi(x0);
+        delta=f(x0)/psi(x0);
         if (fabs(delta)<EPS) break;
         x1=x0+delta;
         printf("Текущее приближение x=%lf\n",x1);
