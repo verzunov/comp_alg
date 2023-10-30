@@ -8,11 +8,11 @@ double x0;
 double x1;
 double f(double x)
 {
-    return x*x*x -8 ;
+    return x*x -4 ;
 }
 double psi(double x)
 {
-    return - 3.0*x*x;
+    return - 2.0*x;
 }
 int main()
 {

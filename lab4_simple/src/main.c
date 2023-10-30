@@ -9,6 +9,7 @@ double x1;
 
 
 double f(double x)
+/*(1)*/
 {
     return x*x -4 ;
 }

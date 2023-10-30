@@ -7,7 +7,7 @@ void Jacobian(double x, double y, double J[2][2]) {
 J[0][0] = 2*x; // df/dx
 J[0][1] = 2*y; // df/dy
 J[1][0] = y; // dg/dx
-J[1][1] = x; // dg/dy
+J[1][1] = -x; // dg/dy
 }
 void Func(double x, double y, double F[2]) {
 F[0] = x*x + y*y - 4;
@@ -32,8 +32,8 @@ iter++;
 printf("Iterations: %d\n", iter);
 }
 int main() {
-double x = 1.0;
-double y = 2.0;
+double x = 100.0;
+double y = 200.0;
 Newton(&x, &y);
 printf("Roots: x = %.5lf, y = %.5lf\n", x, y);
 return 0;

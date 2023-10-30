@@ -1,15 +1,15 @@
 #define EPS 1e-6
 #define MAX_ITER 100
-#define DX 1e-5
+#define DX 1e-3
 
 #include <stdio.h>
 #include <stdlib.h>
-
+#include <math.h>
 double x0;
 double x1;
 double f(double x)
 {
-    return x*x*x-27;
+    return x*x-4;
 }
 double psi(double x)
 {
