@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "untitled"
+			"path" : "lagranj"
 		}
 	],
 	"backtrace" : 1,
@@ -53,7 +53,7 @@
 			]
 		}
 	],
-	"id" : "untitled::@6890427a1f51a3e7e1df",
+	"id" : "lagranj::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -69,8 +69,8 @@
 		],
 		"language" : "C"
 	},
-	"name" : "untitled",
-	"nameOnDisk" : "untitled",
+	"name" : "lagranj",
+	"nameOnDisk" : "lagranj",
 	"paths" : 
 	{
 		"build" : ".",

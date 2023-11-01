@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/sverzunov/git/comp_alg/untitled/cmake-build-debug"
+			"value" : "/home/sverzunov/git/comp_alg/lagranj/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -415,7 +415,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/sverzunov/git/comp_alg/untitled/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/home/sverzunov/git/comp_alg/lagranj/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -475,7 +475,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/sverzunov/git/comp_alg/untitled"
+			"value" : "/home/sverzunov/git/comp_alg/lagranj"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -715,7 +715,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "untitled"
+			"value" : "lagranj"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1010,7 +1010,7 @@
 			"value" : "TRUE"
 		},
 		{
-			"name" : "untitled_BINARY_DIR",
+			"name" : "lagranj_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1019,10 +1019,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/sverzunov/git/comp_alg/untitled/cmake-build-debug"
+			"value" : "/home/sverzunov/git/comp_alg/lagranj/cmake-build-debug"
 		},
 		{
-			"name" : "untitled_IS_TOP_LEVEL",
+			"name" : "lagranj_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1034,7 +1034,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "untitled_SOURCE_DIR",
+			"name" : "lagranj_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1043,7 +1043,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/sverzunov/git/comp_alg/untitled"
+			"value" : "/home/sverzunov/git/comp_alg/lagranj"
 		}
 	],
 	"kind" : "cache",
