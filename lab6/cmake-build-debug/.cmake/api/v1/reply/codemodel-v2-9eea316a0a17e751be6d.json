@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/sverzunov/git/comp_alg/lagranj/cmake-build-debug",
-		"source" : "/home/sverzunov/git/comp_alg/lagranj"
+		"build" : "/home/sverzunov/git/comp_alg/lab6/cmake-build-debug",
+		"source" : "/home/sverzunov/git/comp_alg/lab6"
 	},
 	"version" : 
 	{

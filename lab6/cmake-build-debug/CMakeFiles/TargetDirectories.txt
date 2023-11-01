@@ -1,3 +1,3 @@
-/home/sverzunov/git/comp_alg/lagranj/cmake-build-debug/CMakeFiles/lagranj.dir
-/home/sverzunov/git/comp_alg/lagranj/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/sverzunov/git/comp_alg/lagranj/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sverzunov/git/comp_alg/lab6/cmake-build-debug/CMakeFiles/lagranj.dir
+/home/sverzunov/git/comp_alg/lab6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sverzunov/git/comp_alg/lab6/cmake-build-debug/CMakeFiles/rebuild_cache.dir

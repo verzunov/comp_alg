@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/sverzunov/git/comp_alg/lagranj/cmake-build-debug"
+			"value" : "/home/sverzunov/git/comp_alg/lab6/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -415,7 +415,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/sverzunov/git/comp_alg/lagranj/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/home/sverzunov/git/comp_alg/lab6/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -475,7 +475,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/sverzunov/git/comp_alg/lagranj"
+			"value" : "/home/sverzunov/git/comp_alg/lab6"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1019,7 +1019,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/sverzunov/git/comp_alg/lagranj/cmake-build-debug"
+			"value" : "/home/sverzunov/git/comp_alg/lab6/cmake-build-debug"
 		},
 		{
 			"name" : "lagranj_IS_TOP_LEVEL",
@@ -1043,7 +1043,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/sverzunov/git/comp_alg/lagranj"
+			"value" : "/home/sverzunov/git/comp_alg/lab6"
 		}
 	],
 	"kind" : "cache",
