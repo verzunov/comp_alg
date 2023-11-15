@@ -1,1 +1,0 @@
-CMakeLists.txt not found in /home/sverzunov/git/comp_alg/lagranj Select CMakeLists.txt
